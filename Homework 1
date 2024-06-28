@@ -1,0 +1,173 @@
+// Task 1
+
+function sum (a, b) {
+  return a + b;
+}
+
+// Task 2
+
+function convert (minutesToSeconds) {
+  return minutes * 60;
+}
+
+// Task 3
+
+function convertYearsToDays (age) {
+  return age * 365;
+}
+
+// Task 4
+
+function nameString (name) {
+  let result = name + 'Edabit';
+  return result;
+}
+
+// Task 5
+
+function equalNumbers (num1, num2) {
+  return num1 === num2;
+}
+
+// Task 6
+
+1
+1
+undefined
+2
+ReferenceError, vorovhetev menq uzum enq tpel y popoxakan@ minjev haytararel@
+
+// Task 7
+
+undefined (varov haytararvac popoxakan@ karox enq tesnel hoisting_i shnorhiv barcranalov verev, isk ete et popoxakanin minjev arjeq tal@ console.log anenq, js_@ avtomat talisa undefined vorpes arjeq)
+
+// Task 8
+
+2
+3 (++ operator@ veradarcnuma et pahin value_n u mecacnum mekov)
+
+// Task 9
+
+[1, 2, 3, 4]
+[1, 2, 3, 4]
+Qani vor array@ reference type_a - ev c popoxakan@ ev d popoxakan@ hxvum en nuyn arrayin, et patjarov d popoxakani het popoxutyun anelov kpoxvi nayev c popoxakani arjeq@
+
+// Task 10
+
+[1, 2, 3]
+[1, 2, 3]
+[1, 2, 3]
+[4, 5, 6]
+
+a ev b popoxakanner@ skzbum hxvum en nuyn arrayin [1, 2, 3], bayc erb menq b popoxakan@ veragrum enq u talis enq nor arjeq [4, 5, 6] et jamanak b popoxakann a menak hxvum nor stexcac arrayin, isk a popoxakan@ hxvuma hnin
+
+// Task 11
+
+[1, 2, 3, 4]
+[4, 5, 6, 7]
+[1, 2, 3, 4]
+
+function foo_n poxuma x array@, avelacnelov 4 ev [4, 5, 6, 7], bayc a popoxakan@ poxancvac vorpes parametr mnuma nuyn dzev
+
+// Task 12
+
+42
+function foo 'a' key arjeqin veragruma 42 
+
+// Task 13
+
+10
+11
+
+// Task 14
+
+[1, 2, 3, 4]
+[1, 2, 3, 4]
+array@ reference type_a
+
+// Task 15
+
+[1, 2, 3]
+[4, 5, 6]
+
+arr2 arjeq@ poxeluc arr1 arjeq@ chi poxvi ev hxveluya nuyn arrayin [1, 2, 3]
+
+// Task 16
+
+'newValue' qani vor modifyObject function@ key_i arjeq@ poxuma bloki nersum
+
+// Task 17
+
+[4, 5, 6, 7]
+[1, 2, 3, 4]
+
+// Task 18
+
+99
+
+function uptadeProperty 'a' key arjeqin veragruma 99 
+
+// Task 19
+
+6
+5
+
+skzbic mecacnuma myNumber_i arjeq@ mi hatov function_i bloki nersum, bayc myNumber@ mnuma 5 function@ kancheluc heto
+
+// Task 20
+
+8
+
+function sum@ - function declaration_a, aysinqn menq karox enq kanchel function@ minjev haytararel@
+
+// Task 21
+
+20 
+
+nuynpes vonc function sum@ kashxati (function decleration)
+
+// Task 22
+
+undefined (var_ov haytararelu depqum kbarcrana verev ev ktpi undefined)
+'bar' (var_ov haytararac nuyn popoxakan@ karox enq amen pahin veragrel ev tal nor arjeq)
+
+// Task 23
+
+'baz'
+
+// Task 24
+
+undefined
+100
+ReferenceError (chenq karox tpel 'baz' minjev haytararel@)
+
+// Task 25
+
+undefined
+ReferenceError (chenq karox tpel 'baz' minjev haytararel@)
+
+// Task 26
+
+'12'
+2
+20
+5
+NaN
+1
+false
+false
+true
+false
+true
+123
+NaN
+1
+0
+0
+NaN
+'123'
+'true'
+'false'
+'null'
+'undefined'
+
